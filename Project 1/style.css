@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+*{ 
+  font-family: 'Preahvihear', sans-serif;
+  margin: 5;
+  padding: 5;
+  background-color: rgb(5, 245, 249);
+}
+h1
+{
+  color: rgb(60, 0, 255);
+}
+h2
+{
+  color: rgb(60, 0, 255);
+}
+h3
+{
+  color: rgb(60, 0, 255);
+}
+u, i
+{
+  color: rgb(0, 21, 255);
+}
